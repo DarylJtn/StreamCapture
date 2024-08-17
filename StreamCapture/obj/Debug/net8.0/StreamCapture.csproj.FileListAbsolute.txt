@@ -1,0 +1,14 @@
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Debug\net8.0\StreamCapture.exe
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Debug\net8.0\StreamCapture.deps.json
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Debug\net8.0\StreamCapture.runtimeconfig.json
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Debug\net8.0\StreamCapture.dll
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Debug\net8.0\StreamCapture.pdb
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\StreamCapture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\StreamCapture.AssemblyInfoInputs.cache
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\StreamCapture.AssemblyInfo.cs
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\StreamCapture.csproj.CoreCompileInputs.cache
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\StreamCapture.dll
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\refint\StreamCapture.dll
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\StreamCapture.pdb
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\StreamCapture.genruntimeconfig.cache
+C:\Users\daryl\dev\StreamCapture\StreamCapture\obj\Debug\net8.0\ref\StreamCapture.dll

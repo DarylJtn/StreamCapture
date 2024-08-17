@@ -1,0 +1,5 @@
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Release\net8.0\publish\StreamCapture.exe
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Release\net8.0\publish\StreamCapture.dll
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Release\net8.0\publish\StreamCapture.deps.json
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Release\net8.0\publish\StreamCapture.runtimeconfig.json
+C:\Users\daryl\dev\StreamCapture\StreamCapture\bin\Release\net8.0\publish\StreamCapture.pdb
